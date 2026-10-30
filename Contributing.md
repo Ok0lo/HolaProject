@@ -31,6 +31,6 @@
 
 ---
  
-[🏠 На главную](README.md) | [📖 Использование](Usage.md) | [📂 Структура проекта](ProjectStructure.md) | [🤝 Руководство по участию](Contributing.md)
+[🏠 На главную](README.md) | [📖 Использование](Usage.md) | [📂 Структура проекта](ProjectStructure.md)
 
 ---
