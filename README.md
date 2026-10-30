@@ -12,6 +12,10 @@
 *   **Среда разработки:** Visual Studio
 *   **Сквозная технология:** Нейросетевой Text-to-Speech (TTS)
 
+[![Unity](https://img.shields.io/badge/Unity-2022.3%20LTS-black?style=for-the-badge&logo=unity)](https://unity.com/)
+[![C#](https://img.shields.io/badge/C%23-.NET-purple?style=for-the-badge&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 ## Визуализация
 
 ---
