@@ -31,6 +31,6 @@ cd HolaProject
 
 ---
 
-[🏠 На главную](README.md) | [📂 Структура проекта](ProjectStructure.md) | [🤝 Руководство по участию](Contributing.md
+[🏠 На главную](README.md) | [📂 Структура проекта](ProjectStructure.md) | [🤝 Руководство по участию](Contributing.md)
 
 ---
