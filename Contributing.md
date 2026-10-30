@@ -31,6 +31,8 @@
 
 ---
  
-[🏠 На главную](README.md) | [📖 Использование](Usage.md) | [📂 Структура проекта](ProjectStructure.md)
-
----
+<p align="center">
+  <a href="README.md">🏠 На главную</a> • 
+  <a href="Usage">📖 Использование</a> • 
+  <a href="Contributing.md">🤝 Руководство по участию</a>
+</p>
