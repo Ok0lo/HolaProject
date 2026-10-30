@@ -1,6 +1,6 @@
 # 📂 Структура проекта (Project Structure)
 
-## 🌳 Дерево каталогов
+## Дерево каталогов
 
 ```text
 ├── Assets/
@@ -17,6 +17,6 @@
 └── ProjectSettings/
 ```
 
-[На главную (README.md)](README.md) | [Использование (USAGE.md)](USAGE.md) | [Контрибьютинг (CONTRIBUTING.md)](CONTRIBUTING.md)
+[🏠 На главную](README.md) | [📖 Использование](Usage.md) | [🤝 Руководство по участию](Contributing.md)
 
 ---
