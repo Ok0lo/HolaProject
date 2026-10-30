@@ -23,11 +23,11 @@ cd HolaProject
 # 3. Откройте Unity Hub -> Add -> выберите папку проекта
 # 4. Дождитесь импорта всех ассетов
 # 5. Откройте сцену Assets/Scenes/MainMenu.unity и нажмите Play
+```
 
 [![Unity](https://img.shields.io/badge/Unity-2022.3%20LTS-black?style=for-the-badge&logo=unity)](https://unity.com/)
 [![C#](https://img.shields.io/badge/C%23-.NET-purple?style=for-the-badge&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-```
 
 ---
 
