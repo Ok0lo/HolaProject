@@ -53,10 +53,6 @@ cd HolaProject
 # 5. Откройте сцену Assets/Scenes/MainMenu.unity и нажмите Play
 ```
 
-[![Unity](https://img.shields.io/badge/Unity-2022.3%20LTS-black?style=for-the-badge&logo=unity)](https://unity.com/)
-[![C#](https://img.shields.io/badge/C%23-.NET-purple?style=for-the-badge&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
 # Структура проекта
 
 В данном разделе представлена архитектура каталогов игрового проекта в Unity. Структура организована по принципу разделения ответственности, что обеспечивает масштабируемость кода и удобство совместной разработки.
