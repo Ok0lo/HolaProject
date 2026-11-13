@@ -1,5 +1,9 @@
 # Игровое приложение для изучения испанского языка на основе метода контекстной догадки
 
+[![Unity](https://img.shields.io/badge/Unity-2022.3%20LTS-black?style=for-the-badge&logo=unity)](https://unity.com/)
+[![C#](https://img.shields.io/badge/C%23-.NET-purple?style=for-the-badge&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 **Краткое описание:** Игровое приложение для изучения испанского языка, которое решает проблему скучной зубрежки. Вместо механического заучивания слов мы используем метод контекстной догадки, увлекательные головоломки и нейросетевой синтез речи (TTS) для естественного погружения в языковую среду.
 
 **Проблема:** Традиционные приложения для изучения языков часто строятся на прямом переводе и карточках. Это формирует пассивное узнавание, но не учит понимать язык в реальном контексте.
@@ -11,10 +15,6 @@
 *   **Язык:** C#
 *   **Среда разработки:** Visual Studio
 *   **Сквозная технология:** Нейросетевой Text-to-Speech (TTS)
-
-[![Unity](https://img.shields.io/badge/Unity-2022.3%20LTS-black?style=for-the-badge&logo=unity)](https://unity.com/)
-[![C#](https://img.shields.io/badge/C%23-.NET-purple?style=for-the-badge&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ## Визуализация
 
@@ -89,16 +89,7 @@ cd HolaProject
 
 *   **`Core/`** — «мозг» приложения. Здесь находится логика алгоритма контекстной догадки, менеджеры состояний игры (GameManager), сохранений (SaveManager) и загрузки ресурсов.
 *   **`UI/`** — реализация паттерна MVP/MVVM для интерфейса, анимации окон (DOTween) и менеджер навигации по экранам.
-
-# Руководство по участию
-
-Спасибо за интерес к нашему проекту! Мы рады любой помощи: от сообщений об ошибках до написания кода или создания графики.
-
-## Кодекс поведения
-*   Будьте вежливы и уважительны к другим участникам.
-*   Конструктивно критикуйте код и идеи.
-*   Помните, что наша цель — создать полезный образовательный инструмент.
-
+*   
 ## Как сообщить об ошибке (Bug Report)
 
 Если вы нашли баг, создайте [Issue](https://github.com/Ok0lo/HolaProject/issues) со следующим содержимым:
